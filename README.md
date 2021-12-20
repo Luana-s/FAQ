@@ -1,4 +1,3 @@
-# TESTANDO
 <!DOCTYPE.html>
 <html>
     <head>
@@ -14,3 +13,6 @@
             <p>Olá nosso objetivo é criar uma FAQ, para te auxiliar em dúvidas, referentes ao curso de Ciência da Computação. Nele contém as perguntas mais frequentes, mais caso sua dúvida não esteja entre elas, você pode buscar sua dúvida na barra de pesquisa</p>
 
         </main>
+    </body>
+
+</html>
